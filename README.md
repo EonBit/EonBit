@@ -29,15 +29,15 @@ Clean. Performant. Infinite.
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./workflows/svgexport-1.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./workflows/svgexport-1.svg" />
     <img alt="Snake eating contributions – blue neon style" src="./workflows/svgexport-1.svg" width="70%" />
   </picture>
-</div>
+</div> -->
 
----
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&gradient=1e90ff,0d1117&height=100&section=footer&text=∞%20Code%20Eternal%20∞&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Eternal Footer" />
