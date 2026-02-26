@@ -1,65 +1,35 @@
 <!-- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0x1e90ff&height=200&section=header&text=EonBit&fontSize=80&fontColor=0xffffff&animation=twinkling&fontAlignY=35" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=1e90ff,000000&height=180&section=header&text=EonBit ∞&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=55" alt="EonBit Header" />
 </div> -->
 
-<h2 align="center">Hi there 👋, I'm EonBit</h2>
+<h1 align="center">EonBit</h1>
 
 <p align="center">
-  <em>∞ Bits in eternal loop – Crafting code that never ends.</em><br>
-  Full-Stack Developer • From VS Code & GitHub Universe
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Infinite+bits+in+eternal+loop...;Debugging+reality+since+forever;while+(true)+{+evolve();+};0xEONBIT" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Code-EonBit-1e90ff?style=for-the-badge&logo=codeforces&logoColor=white" alt="EonBit" />
-  <img src="https://img.shields.io/badge/Status-Coding%20Forever-blueviolet?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Looping%20Eternally-1e90ff?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Realm-VS%20Code%20%26%20GitHub%20Universe-0d1117?style=for-the-badge&logo=github" />
 </div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🔮 The Void Architect
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-</div>
+I weave **endless threads of code** through the digital abyss.  
+Every line is a pulse in the matrix — clean, performant, eternal.
 
-<p align="center">
-  <sub>Always exploring new stacks – Rust, Go, TypeScript on the horizon...</sub>
-</p>
+- ⚙️ **Core Stack**: C# • Kotlin • Python • JS/TS • PHP  
+- 🛠️ **Tools of Creation**: VS Code • GitHub • MySQL • Bootstrap  
+- 🌌 **Horizons**: Rust • Go • Clean Arch • Quantum-inspired algos  
+- 🐛 **Philosophy**: Bugs are mysteries. Fix them with elegance.
 
----
-
-### 🌌 About Me
-
-- 🔭 I’m currently building **infinite loops** and solving real-world puzzles with clean, performant code
-- 🌱 Deep into: Clean Architecture, Performance Optimization, UX-focused development
-- 💡 Detail-obsessed – If it’s not elegant and efficient, it’s not done
-- ⚡ Fun fact: I treat every bug like a mystery in a cyber-noir story
-
-> "In the void of 1s and 0s, I forge eternity." – EonBit
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EonBit/EonBit/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EonBit/EonBit/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EonBit/EonBit/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+> "From null to infinity — I forge what never ends."  
+> — EonBit
 
 ---
 
 <div align="center">
-  Made with ∞ &nbsp;💻&nbsp; by EonBit
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&gradient=000000,1e90ff&height=80&section=footer&text=∞%20Code%20Never%20Dies%20∞&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Footer" />
 </div>
