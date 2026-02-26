@@ -38,7 +38,6 @@ Clean. Performant. Infinite.
 </div> -->
 
 
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&gradient=1e90ff,0d1117&height=100&section=footer&text=∞%20Code%20Eternal%20∞&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Eternal Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1e293b&height=60&section=footer&text=∞&fontSize=40&fontColor=60a5fa&animation=fadeIn" alt="Ultra Minimal Footer" />
 </div>
