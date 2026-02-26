@@ -1,35 +1,44 @@
-<!-- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=1e90ff,000000&height=180&section=header&text=EonBit ∞&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=55" alt="EonBit Header" />
-</div> -->
-
-<h1 align="center">EonBit</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=0d1117,1e90ff&height=220&section=header&text=EonBit%20∞&fontSize=100&fontColor=ffffff&animation=twinkling&fontAlignY=40" alt="EonBit Waving Header" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Infinite+bits+in+eternal+loop...;Debugging+reality+since+forever;while+(true)+{+evolve();+};0xEONBIT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=800&color=1E90FF&center=true&vCenter=true&width=500&lines=Infinite+bits+in+eternal+loop...;Debugging+the+void+since+forever;while+(true)+{+evolve();+};0xEONBIT" alt="Typing Animation" />
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Looping%20Eternally-1e90ff?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Realm-VS%20Code%20%26%20GitHub%20Universe-0d1117?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/EonBit-Code+Architect-1e90ff?style=for-the-badge&logo=codeforces&logoColor=white" alt="Badge" />
 </div>
 
 ---
 
-### 🔮 The Void Architect
+### 🌌 Void Coder
 
-I weave **endless threads of code** through the digital abyss.  
-Every line is a pulse in the matrix — clean, performant, eternal.
+Crafting **eternal code** in the digital abyss.  
+Clean. Performant. Infinite.
 
-- ⚙️ **Core Stack**: C# • Kotlin • Python • JS/TS • PHP  
-- 🛠️ **Tools of Creation**: VS Code • GitHub • MySQL • Bootstrap  
-- 🌌 **Horizons**: Rust • Go • Clean Arch • Quantum-inspired algos  
-- 🐛 **Philosophy**: Bugs are mysteries. Fix them with elegance.
+- **Primary Languages** → C# • Kotlin • Python • JS/TS
+- **Tools** → VS Code • GitHub • MySQL • Bootstrap
+- **Next Level** → Rust • Go • Clean Architecture
+- **Mantra** → Every bug is a glitch in the matrix – fix with elegance.
 
-> "From null to infinity — I forge what never ends."  
+> "From 0 to ∞ — I build what never fades."  
 > — EonBit
 
 ---
 
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&gradient=000000,1e90ff&height=80&section=footer&text=∞%20Code%20Never%20Dies%20∞&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Footer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./workflows/svgexport-1.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./workflows/svgexport-1.svg" />
+    <img alt="Snake eating contributions – blue neon style" src="./workflows/svgexport-1.svg" width="70%" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&gradient=1e90ff,0d1117&height=100&section=footer&text=∞%20Code%20Eternal%20∞&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Eternal Footer" />
 </div>
