@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0x1e90ff&height=200&section=header&text=EonBit&fontSize=80&fontColor=0xffffff&animation=twinkling&fontAlignY=35" alt="header" />
-</div>
+</div> -->
 
 <h2 align="center">Hi there 👋, I'm EonBit</h2>
 
